@@ -22,7 +22,7 @@ I am an Astrophysics PhD student working at the intersection of machine learning
 
 ---
 
-## 🚀 Industry & Technical Experience
+## 🚀 Aerospace Work
 
 * **Gazelle Spacecraft (General Atomics)**
   [https://www.ga.com/ga-gazelle-satellite-with-argos-4-payload-completes-post-launch-acceptance-review](https://www.ga.com/ga-gazelle-satellite-with-argos-4-payload-completes-post-launch-acceptance-review)
