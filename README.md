@@ -19,10 +19,21 @@ I'm a former engineer and current Astrophysics & Astronomy PhD researcher at the
 
 ---
 
+## 📈 Independent Project: Women-Led Podcast Analytics (2026)
+
+[Interactive report](https://shaniyasolves.github.io/women-led-podcast-analytics/)
+
+* Analyzed public YouTube data from 325 episodes across eight women-led podcasts to see how format, topic, length, and titles relate to audience reach and interaction.
+* Used statistical testing, bootstrap confidence intervals, and within-channel normalization to separate reach from engagement per viewer.
+* Built a public interactive Plotly report and turned the findings into practical content recommendations.
+
+---
+
 ## 📊 Master's Research: Fisk University / Vanderbilt University (2022 to 2024)
 
 * Took a project from concept to publication, applying correlation and clustering analysis to 1 TB of simulation data.
 * Discovered that a rare event can serve as a low-cost proxy for predicting trends across a much larger dataset.
+* Created maps of the expected gravitational wave background for the LISA space mission.
 
 ---
 
@@ -60,7 +71,7 @@ I'm a former engineer and current Astrophysics & Astronomy PhD researcher at the
 
 ## 📰 Featured Work & Outreach
 
-* **UMD Feature: *Tuning into the Cosmos***
+* **UMD Feature: *Tuning into the Cosmos*** (2026)
   [https://cmns.umd.edu/news-events/news/shaniya-jarrett-tuning-cosmos](https://cmns.umd.edu/news-events/news/shaniya-jarrett-tuning-cosmos)
   Highlights my work applying transformer models to find binary black hole signals, motivated by the future LISA gravitational wave mission.
 
@@ -69,9 +80,10 @@ I'm a former engineer and current Astrophysics & Astronomy PhD researcher at the
 
 * **AstroBeats (STEM + Music Program, 2023 to 2025)**
   [https://www.astrobeats.us](https://www.astrobeats.us)
-  Created and managed a grant-funded program that turns astrophysics data into music: wrote the proposal, built the scope, schedule, and budget, and presented it at two national conferences.
+  Created and managed a grant-funded program that turns astrophysics data into music: wrote the proposal, built the scope, schedule, and budget, guided a cohort of middle school girls to create songs from real data, and presented it at two national conferences.
 
 ---
+
 
 ## 🏆 Awards & Recognition
 
@@ -89,25 +101,59 @@ I'm a former engineer and current Astrophysics & Astronomy PhD researcher at the
 
 ## 🔬 Publications
 
-* **Primary Paper (First Author), *The Astrophysical Journal***
+* **First Author: *Comparing the Spatial Correlation of Binary Black Hole Mergers to Large-Scale Structure through the Illustris Simulation*, The Astrophysical Journal** (2025)
   [https://iopscience.iop.org/article/10.3847/1538-4357/ae6fa2](https://iopscience.iop.org/article/10.3847/1538-4357/ae6fa2)
 
-* **White Paper (Co-Author): *Windows on the Universe: Establishing the Infrastructure for a Collaborative Multi-messenger Ecosystem*** (2024)
+* **Co-Author, White Paper: *Windows on the Universe: Establishing the Infrastructure for a Collaborative Multi-messenger Ecosystem*** (2023)
   [https://arxiv.org/abs/2401.02063](https://arxiv.org/abs/2401.02063)
 
-* **White Paper (Co-Author): *Reimagining the Astronomy Ph.D. for the 21st Century*** (2023)
+* **Co-Author, White Paper: *Reimagining the Astronomy Ph.D. for the 21st Century*** (2023)
   [https://aas.org/posts/news/2023/11/reimagining-astronomy-phd-21st-century](https://aas.org/posts/news/2023/11/reimagining-astronomy-phd-21st-century)
 
 ---
 
 ## 🎤 Talks & Media
 
-* **Conference on World Affairs (Invited Panelist)**
+* **Podcast: *Starts With A Bang*, Episode #117: Gravitational Waves and the Universe** (2025)
+  [https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-117-gravitational-waves-and-the-universe/](https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-117-gravitational-waves-and-the-universe/)
+
+* **Conference on World Affairs, CU Boulder (Invited Panelist)** (2025)
   Topics spanning space, education, and science & society
   [Panel 1](https://www.youtube.com/watch?v=DBeWtanogMs) · [Panel 2](https://www.youtube.com/watch?v=ltMeD9li2qk) · [Panel 3](https://www.youtube.com/watch?v=jXvlEnfV2qc) · [Panel 4](https://www.youtube.com/watch?v=IVF9DOgaQbs)
 
-* **Podcast: *Starts With A Bang***
-  [https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-117-gravitational-waves-and-the-universe/](https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-117-gravitational-waves-and-the-universe/)
+* **Podcast: *Pale Blue Dot*, on the AstroBeats Project** (2025)
+
+---
+
+
+## 🤝 Volunteer & Community Leadership
+
+* **Committee Member, Astronomy Community Engagement Committee (ACE), University of Maryland** (Present)
+  Co-organizing an undergraduate-graduate mentoring program and department community events.
+* **Workshop Guide, Foundations of Astronomical Data Science, University of Maryland** (2025)
+  Guided participants through Python, Bash, SQL, and ADQL to build data science skills for research.
+* **Executive Secretary, NASA Astrophysics Review Panel** (2024)
+  Summarized notes and comments throughout panel proceedings.
+* **Instructor, Black Girls Becoming (BGB) Summer Institute, Vanderbilt University** (2023)
+  Taught a cohort of 20 middle school girls as the only graduate student instructor alongside Vanderbilt faculty, and championed adding astrophysics to the curriculum of a 9-year research study.
+* **Guest Lecturer, Vanderbilt Collaborative for STEM Education & Outreach (CSEO)** (2023)
+  Led a three-hour session on dark matter and orbital dynamics for 20 middle school students.
+* **Poster Judge, School for Science and Math at Vanderbilt (SSMV) Summer Research Symposium** (2023)
+  Evaluated research projects from 35+ high school students.
+* **Planning Committee Member, Fisk-Vanderbilt Bridge Research Celebration Day** (2023)
+  Organized the 11th annual showcase for 40+ attendees and secured a U.S. Navy chief engineer as keynote speaker.
+* **Executive Board Member, Organization of Black Graduate & Professional Students (OBGAPS), Vanderbilt University** (2022 to 2024)
+  Supported academic and professional growth for 60+ members, advocating for recruitment and retention of Black students and faculty.
+* **Volunteer Tutor, School for Science and Math at Vanderbilt (SSMV) through CSEO** (2022 to 2023)
+  Offered free biweekly physics tutoring to underrepresented students.
+* **Outreach Volunteer, Vanderbilt Dyer Observatory** (2022 to 2023)
+  Helped run telescope nights drawing 100+ people per event.
+* **Organization Member, General Atomics Black Employees (GABE) and Women's Internal Network (WiN)** (2020 to 2022)
+* **Organization Member, CU Boulder Science Technology & Astronomy Recruits (STARs)** (2019 to 2020)
+  Created and led four six-hour lessons bringing physics and astronomy to 60+ students per event in rural areas.
+* **Co-Founder, Women of Color in STEM (Astrophysics Branch), CU Boulder** (2018 to 2020)
+  Provided mentorship and resources for underrepresented women in STEM, and coordinated the first annual Women of Color in STEM Brunch for 50+ students.
+
 
 ---
 
