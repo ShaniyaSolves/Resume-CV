@@ -8,7 +8,7 @@ I'm a former engineer and current Astrophysics & Astronomy PhD researcher at the
 
 ---
 
-## 🧠 Current Work: Machine Learning Research (NASA Goddard / UMD)
+## 🧠 Machine Learning Research: NASA Goddard / University of Maryland (2024 to Present)
 
 * Built a signal classification transformer from scratch on millions of time series to find high-priority targets for a $1.5B NASA mission, cutting false positives **3x** compared to standard methods.
 * Diagnosed and parallelized a bottleneck in the training data pipeline, speeding up training **6x** and benchmarking memory scaling to size supercomputer runs.
@@ -19,18 +19,42 @@ I'm a former engineer and current Astrophysics & Astronomy PhD researcher at the
 
 ---
 
-## 📊 Earlier Research
+## 📊 Master's Research: Fisk University / Vanderbilt University (2022 to 2024)
 
-* **Master's research (Fisk / Vanderbilt):** took a project from concept to publication, applying correlation and clustering analysis to 1 TB of simulation data to find a low-cost proxy for predicting trends across a much larger dataset.
-* **Undergraduate research (LASP / CU Boulder):** developed anomaly detection and trend analysis methods for 4 NASA missions, built a predictive model from a newly discovered nonlinear relationship between two signals, and ran ray-tracing simulations that sharpened satellite images 20%.
+* Took a project from concept to publication, applying correlation and clustering analysis to 1 TB of simulation data.
+* Discovered that a rare event can serve as a low-cost proxy for predicting trends across a much larger dataset.
 
 ---
 
-## 🚀 Industry Experience
+## 🚀 Satellite Test Engineer: General Atomics, Centennial, CO (2020 to 2022)
 
-* **Satellite Test Engineer, General Atomics (2020 to 2022)**
-  [Gazelle spacecraft completes post-launch acceptance review](https://www.ga.com/ga-gazelle-satellite-with-argos-4-payload-completes-post-launch-acceptance-review)
-  Planned and led the vibration, mass-properties, and structural test campaign for the $65M Gazelle spacecraft, co-pioneered the company's first thermal-vacuum campaign, and helped integrate the Argos-4 instrument, a NOAA and CNES collaboration.
+[Gazelle spacecraft completes post-launch acceptance review](https://www.ga.com/ga-gazelle-satellite-with-argos-4-payload-completes-post-launch-acceptance-review)
+
+* Planned and led the vibration, mass-properties, and structural test campaign for the $65M Gazelle spacecraft, collecting and validating performance data against requirements to meet every delivery milestone.
+* Oversaw functional verification and troubleshooting across hardware, software, and integrated systems throughout the spacecraft lifecycle.
+* Co-pioneered the company's first thermal-vacuum test campaign, establishing qualification standards adopted on later missions and integrating the Argos-4 instrument, a NOAA and CNES collaboration.
+* Authored and implemented test procedures across 5+ subsystems that resolved recurring data anomalies, improved data reliability, and reduced mission risk.
+* Partnered with program management to resolve schedule delays by reprioritizing tests and reallocating resources.
+* Translated test results and insights into actionable recommendations and presented them to customers and cross-functional stakeholders, informing design fixes before launch.
+* Trained 3 new test engineers on spacecraft test operations, bringing them up to speed during active campaigns.
+
+---
+
+## 🛰️ Undergraduate Research Internships: CU Boulder (2017 to 2020)
+
+**Research Assistant, Center for Astrophysics and Space Astronomy (CASA)** (Jan to Aug 2020)
+* Ran ray-tracing simulations of a digital micromirror device (DMD) for a NASA small satellite, reducing stray light and improving image sharpness by 20%.
+* Evaluated the DMD's feasibility for a multi-target imaging instrument by modeling beam size across projection angles.
+
+**Research Assistant, Laboratory for Atmospheric and Space Physics (LASP)** (Jan to Aug 2019)
+* Analyzed NASA Mars orbiter data to measure how the planet's magnetic field varies, building global maps at multiple altitudes.
+* Benchmarked results against an empirical model with statistical analysis.
+
+**Research Assistant, LASP** (Jan to Sep 2018)
+* Designed algorithms to automatically detect solar wind irregularities and solar eruptions in a multi-mission NASA database.
+
+**Research Experience for Undergraduates (REU) Intern, LASP** (May to Aug 2017)
+* Analyzed NASA satellite data to link two signals in Earth's space environment previously thought unrelated, using the link to build a nonlinear predictive model.
 
 ---
 
@@ -40,7 +64,7 @@ I'm a former engineer and current Astrophysics & Astronomy PhD researcher at the
   [https://cmns.umd.edu/news-events/news/shaniya-jarrett-tuning-cosmos](https://cmns.umd.edu/news-events/news/shaniya-jarrett-tuning-cosmos)
   Highlights my work applying transformer models to find binary black hole signals, motivated by the future LISA gravitational wave mission.
 
-* **Vanderbilt Feature: AstroBeats & Representation in STEM**
+* **Vanderbilt Feature: AstroBeats & Representation in STEM** (2024)
   [https://as.vanderbilt.edu/news/2024/02/27/bridging-the-gap-combining-music-and-astrophysics-to-improve-representation-in-science-2/](https://as.vanderbilt.edu/news/2024/02/27/bridging-the-gap-combining-music-and-astrophysics-to-improve-representation-in-science-2/)
 
 * **AstroBeats (STEM + Music Program, 2023 to 2025)**
@@ -51,15 +75,15 @@ I'm a former engineer and current Astrophysics & Astronomy PhD researcher at the
 
 ## 🏆 Awards & Recognition
 
-* **NSF Graduate Research Fellowship Program (GRFP)** (2024)
 * **Outstanding Teaching Assistant Award** (2025)
+* **NSF Graduate Research Fellowship Program (GRFP)** (2024)
 * **CMNS Exceptional Recruitment Award** (2024)
 * **Margaret Cuninggim Women's Center Leadership Award** (2024)
   [https://news.vanderbilt.edu/2024/04/15/margaret-cuninggim-womens-center-presents-annual-awards-to-five-vanderbilt-community-members-2/](https://news.vanderbilt.edu/2024/04/15/margaret-cuninggim-womens-center-presents-annual-awards-to-five-vanderbilt-community-members-2/)
-* **AAS Chambliss Student Achievement Award** (2023)
-  [https://aas.org/posts/news/2023/06/congratulations-aas-242-chambliss-student-award-winners](https://aas.org/posts/news/2023/06/congratulations-aas-242-chambliss-student-award-winners)
 * **Heising-Simons Foundation Mini-Grant (Women & Girls in Astronomy)** (2023)
   [https://naroad.astro4dev.org/2023/07/21/na-road-selects-10-astronomy-for-development-projects-to-support-women-and-girls-in-astronomy/](https://naroad.astro4dev.org/2023/07/21/na-road-selects-10-astronomy-for-development-projects-to-support-women-and-girls-in-astronomy/)
+* **AAS Chambliss Student Achievement Award** (2023)
+  [https://aas.org/posts/news/2023/06/congratulations-aas-242-chambliss-student-award-winners](https://aas.org/posts/news/2023/06/congratulations-aas-242-chambliss-student-award-winners)
 
 ---
 
@@ -68,10 +92,10 @@ I'm a former engineer and current Astrophysics & Astronomy PhD researcher at the
 * **Primary Paper (First Author), *The Astrophysical Journal***
   [https://iopscience.iop.org/article/10.3847/1538-4357/ae6fa2](https://iopscience.iop.org/article/10.3847/1538-4357/ae6fa2)
 
-* **White Paper (Co-Author): *Windows on the Universe: Establishing the Infrastructure for a Collaborative Multi-messenger Ecosystem***
+* **White Paper (Co-Author): *Windows on the Universe: Establishing the Infrastructure for a Collaborative Multi-messenger Ecosystem*** (2024)
   [https://arxiv.org/abs/2401.02063](https://arxiv.org/abs/2401.02063)
 
-* **White Paper (Co-Author): *Reimagining the Astronomy Ph.D. for the 21st Century***
+* **White Paper (Co-Author): *Reimagining the Astronomy Ph.D. for the 21st Century*** (2023)
   [https://aas.org/posts/news/2023/11/reimagining-astronomy-phd-21st-century](https://aas.org/posts/news/2023/11/reimagining-astronomy-phd-21st-century)
 
 ---
