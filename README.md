@@ -1,7 +1,7 @@
 
 # Resume & CV — Shaniya Jarrett
 
-This repository contains my **resume and curriculum vitae**, along with selected work across research, industry, and outreach.
+This repository contains my **resume and curriculum vitae** in the files above, along with selected work across research, industry, and outreach.
 
 I am an Astrophysics PhD student working at the intersection of machine learning, data science, and scientific discovery.
 
